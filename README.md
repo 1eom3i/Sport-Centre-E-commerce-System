@@ -1,4 +1,4 @@
-# COMP2913 Group 21
+# Sports Centre E-commerce System
 
 Sports centre management system written in Python 3 with Flask and `sqllite` as the web server/database backend.
 
