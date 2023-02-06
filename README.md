@@ -6,8 +6,8 @@ Sports centre management system written in Python 3 with Flask and `sqllite` as 
 
 To install the app and its dependencies, do
 ```shell
-$ git clone git@gitlab.com:jakeboughey/21.git comp2913
-$ cd comp2913
+$ git clone https://github.com/1eom3i/Sport-Centre-E-commerce-System.git
+$ cd Sport-Centre-E-commerce-System
 $ virtualenv venv && source venv/bin/activate
 $ pip install -r requirements.txt
 ```
